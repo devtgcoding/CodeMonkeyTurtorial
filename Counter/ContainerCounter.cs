@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-public class ContainnerCounter : BaseCounter 
+public class ContainerCounter : BaseCounter 
 {
     public event EventHandler OnPlayerGrabbedObject;
    
